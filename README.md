@@ -1,7 +1,7 @@
 # Medi-Siege 
 https://leslie-14.github.io/Medi-Siege/
 
-A project for Centennial College made by Centennial College Crew:
+#A project for Centennial College made by Centennial College Crew:
 Matteo Assenza
 Leslie Renee Dizon
 Robin Joseph Augustine
