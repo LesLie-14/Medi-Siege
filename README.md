@@ -1,6 +1,13 @@
 # Medi-Siege 
 https://leslie-14.github.io/Medi-Siege/
 
+A project for Centennial College made by Centennial College Crew:
+Matteo Assenza
+Leslie Renee Dizon
+Robin Joseph Augustine
+Jokku Kattakkayam
+Filip Anton
+
 # Game Overview 
 Medi-Siege is an educational tower defense game based on the human immune system. The game aims to educate users about how the body defends itself in a fun and accessible way. We are using the Unity game engine to build this 2D tower defense game. Even though there are many other educational games out there, none of those are teaching how our body is fighting against bacterias and viruses as accurately and engaging as our game.
 
